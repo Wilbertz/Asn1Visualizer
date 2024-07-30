@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DLL's", "DLL's", "{E3936339
 		DLL's\Asn1Visualizer.pdb = DLL's\Asn1Visualizer.pdb
 		DLL's\BouncyCastle.Crypto.dll = DLL's\BouncyCastle.Crypto.dll
 		DLL's\BouncyCastle.Crypto.xml = DLL's\BouncyCastle.Crypto.xml
+		DLL's\Microsoft.VisualStudio.DebuggerVisualizers.dll = DLL's\Microsoft.VisualStudio.DebuggerVisualizers.dll
+		DLL's\Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll = DLL's\Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll
 	EndProjectSection
 EndProject
 Global
